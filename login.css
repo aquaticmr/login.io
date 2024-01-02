@@ -1,0 +1,75 @@
+.login {
+  position: relative;
+  background-color: aliceblue;
+  width: 450px;
+  height: 600px;
+  margin-left: 780px;
+  margin-top: 150px;
+  border-radius: 50px;
+  cursor: auto;
+}
+
+.content {
+  align-content: center;
+  padding: 24px;
+}
+.login1 {
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+.inputhead {
+  font-size: large;
+  margin: 0px;
+  margin-left: 8px;
+  padding: 8px;
+}
+.input {
+  font-size: medium;
+  padding: 8px;
+  border-radius: 8px;
+  border: solid 0.1px grey;
+  height: 24px;
+  width: 300px;
+  margin: 8px;
+}
+.forget {
+  margin-left: 16px;
+  padding-top: 20px;
+}
+.button {
+  margin: 0px;
+  margin-left: 20px;
+  padding: 8px;
+  width: 280px;
+  border-radius: 50px;
+  margin-top: 32px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.button:active {
+  transform: scale(0.96);
+}
+.sign {
+  margin-left: 110px;
+}
+.image {
+  width: 200px;
+  align-items: center;
+  display: flex;
+  padding-left: 90px;
+  padding-top: 10px;
+}
+.h55 {
+  margin-top: 400px;
+  position: relative;
+  background-color: white;
+  width: 400px;
+  height: 85px;
+  border-radius: 60px;
+  margin-left: 800px;
+  text-align: center;
+}
+.h56 {
+  padding-top: 6px;
+}
