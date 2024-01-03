@@ -73,7 +73,7 @@
 .h56 {
   padding-top: 6px;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .login {
     position: relative;
     background-color: aliceblue;
