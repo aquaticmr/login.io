@@ -74,12 +74,13 @@
   padding-top: 6px;
 }
 @media (max-width: 600px) {
-  .login {
-    position: relative;
+ .login {
     background-color: aliceblue;
     width: 450px;
-    height: 600px;
+    height: 550px;
     border-radius: 50px;
-align-items: center;
+    align-items: center;
     cursor: auto;
+    margin-left: 70px;
+    margin-top: 50px;
   }
