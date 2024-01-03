@@ -73,3 +73,14 @@
 .h56 {
   padding-top: 6px;
 }
+@media (max-width: 500px) {
+  .login {
+    position: relative;
+    background-color: aliceblue;
+    width: 450px;
+    height: 600px;
+    margin-left: 180px;
+    margin-top: 150px;
+    border-radius: 50px;
+    cursor: auto;
+  }
